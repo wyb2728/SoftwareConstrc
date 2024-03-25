@@ -1,0 +1,8 @@
+D:\D_App2\cpp_pro_bin\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\D_App2\cpp_pro_bin\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\D_App2\cpp_pro_bin\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\D_App2\cpp_pro_bin\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\D_App2\cpp_pro_bin\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+D:\D_App2\cpp_pro_bin\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\D_App2\cpp_pro_bin\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\D_App2\cpp_pro_bin\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
