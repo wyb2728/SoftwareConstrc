@@ -1,0 +1,8 @@
+D:\D_App2\cpp_pro_bin\OrderList\bin\Debug\OrderList.exe.config
+D:\D_App2\cpp_pro_bin\OrderList\bin\Debug\OrderList.exe
+D:\D_App2\cpp_pro_bin\OrderList\bin\Debug\OrderList.pdb
+D:\D_App2\cpp_pro_bin\OrderList\obj\Debug\OrderList.csproj.AssemblyReference.cache
+D:\D_App2\cpp_pro_bin\OrderList\obj\Debug\OrderList.csproj.SuggestedBindingRedirects.cache
+D:\D_App2\cpp_pro_bin\OrderList\obj\Debug\OrderList.csproj.CoreCompileInputs.cache
+D:\D_App2\cpp_pro_bin\OrderList\obj\Debug\OrderList.exe
+D:\D_App2\cpp_pro_bin\OrderList\obj\Debug\OrderList.pdb
