@@ -1,0 +1,14 @@
+C:\Users\86131\Desktop\OrderService\bin\Debug\OrderApp.dll.config
+C:\Users\86131\Desktop\OrderService\bin\Debug\OrderApp.dll
+C:\Users\86131\Desktop\OrderService\bin\Debug\OrderApp.pdb
+C:\Users\86131\Desktop\OrderService\obj\Debug\OrderService.csproj.AssemblyReference.cache
+C:\Users\86131\Desktop\OrderService\obj\Debug\OrderService.csproj.CoreCompileInputs.cache
+C:\Users\86131\Desktop\OrderService\obj\Debug\OrderApp.dll
+C:\Users\86131\Desktop\OrderService\obj\Debug\OrderApp.pdb
+D:\D_App2\cpp_pro_bin\Ass6\OrderService\bin\Debug\OrderApp.dll.config
+D:\D_App2\cpp_pro_bin\Ass6\OrderService\bin\Debug\OrderApp.dll
+D:\D_App2\cpp_pro_bin\Ass6\OrderService\bin\Debug\OrderApp.pdb
+D:\D_App2\cpp_pro_bin\Ass6\OrderService\obj\Debug\OrderService.csproj.AssemblyReference.cache
+D:\D_App2\cpp_pro_bin\Ass6\OrderService\obj\Debug\OrderService.csproj.CoreCompileInputs.cache
+D:\D_App2\cpp_pro_bin\Ass6\OrderService\obj\Debug\OrderApp.dll
+D:\D_App2\cpp_pro_bin\Ass6\OrderService\obj\Debug\OrderApp.pdb
